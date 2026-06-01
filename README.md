@@ -89,6 +89,58 @@ This project builds and evaluates **10 regression models** to predict the median
 
 ---
 
+## 📈 Visualisation Plots
+
+### 1. Missing Values Analysis
+![Missing Values](boston_plots/01_missing_values.png)
+
+---
+
+### 2. Target Distribution
+![Target Distribution](boston_plots/02_target_distribution.png)
+
+---
+
+### 3. Correlation Heatmap
+![Correlation Heatmap](boston_plots/03_correlation_heatmap.png)
+
+---
+
+### 4. MEDV Correlations
+![MEDV Correlations](boston_plots/04_medv_correlations.png)
+
+---
+
+### 5. Scatter — Top Features vs MEDV
+![Scatter Top Features](boston_plots/05_scatter_top_features.png)
+
+---
+
+### 6. Model Comparison
+![Model Comparison](boston_plots/06_model_comparison.png)
+
+---
+
+### 7. Cross-Validation Scores
+![Cross Validation](boston_plots/07_cross_validation.png)
+
+---
+
+### 8. Actual vs Predicted
+![Actual vs Predicted](boston_plots/08_actual_vs_predicted.png)
+
+---
+
+### 9. Feature Importance
+![Feature Importance](boston_plots/09_feature_importance.png)
+
+---
+
+### 10. All Models Grid
+![All Models Grid](boston_plots/10_all_models_grid.png)
+
+---
+
 ## 🚀 How to Run
 
 ```bash
